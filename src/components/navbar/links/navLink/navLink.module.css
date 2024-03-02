@@ -5,9 +5,11 @@
   font-weight: 500;
   cursor: pointer;
   text-align: center;
+  z-index: 99999;
 }
 
 .active {
   background-color: var(--textSoft);
   color: var(--bg);
+  z-index: 99999;
 }

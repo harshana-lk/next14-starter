@@ -5,7 +5,7 @@ const Footer = () => {
     <div className={styles.container}>
       <div className={styles.logo}>blogger.</div>
       <div className={styles.text}>
-        HarshuOnlive creative thoughts agency ©️ All rights reserved
+        Designed by HarshuOnlive ©️ All rights reserved
       </div>
     </div>
   );
