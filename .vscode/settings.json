@@ -26,7 +26,7 @@
   },
   "terminal.integrated.enableMultiLinePasteWarning": false,
   "git.openRepositoryInParentFolders": "never",
-  "workbench.iconTheme": "symbols",
+  "workbench.iconTheme": "material-icon-theme",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "editor.accessibilitySupport": "off",
   "terminal.integrated.env.windows": {},

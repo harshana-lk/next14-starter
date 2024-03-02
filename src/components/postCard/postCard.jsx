@@ -1,6 +1,7 @@
+import Link from "next/link";
 import styles from "./postCard.module.css";
 import Image from "next/image";
-import Link from "next/link";
+
 
 const PostCard = async ({ post }) => {
   return (
